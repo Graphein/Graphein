@@ -15,7 +15,7 @@ Sou um **Futuro Desenvolvedor Web FullStack** atualmente estudando Análise e De
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-</p>  
+</p><br>
   
 **Projetos em Destaque**  
 Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
