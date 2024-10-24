@@ -17,13 +17,14 @@ Sou um **Futuro Desenvolvedor Web FullStack** atualmente estudando Análise e De
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
 </p><br>
 <br>
-<Br>
-Projetos em Destaque
+<br>
+
+**Projetos em Destaque**
 Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
 
-**DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.
-**Recriação da Home Globo.com** - Um projeto onde recriei do zero uma das páginas mais acessadas da internet brasileira.
-**Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.
+**DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.  
+**Recriação da Home Globo.com** - Um projeto onde recriei do zero uma das páginas mais acessadas da internet brasileira.  
+**Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.  
 
 **Vamos nos Conectar!**  
 💼 LinkedIn: Seu Perfil LinkedIn  
