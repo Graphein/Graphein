@@ -1,4 +1,5 @@
-Olá! 👋 Eu sou o **Eduardo Leli**  
+Olá! 👋 Eu sou o **Eduardo Leli!**  
+
 **Sobre mim**  
 Sou um **Futuro Desenvolvedor Web FullStack** atualmente estudando Análise e Desenvolvimento de Sistemas na UNOESTE e também participando do curso Driven Flex, onde estou aprimorando minhas habilidades em desenvolvimento web. Tenho uma base sólida em HTML, CSS, JavaScript, React.js e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.  
 
