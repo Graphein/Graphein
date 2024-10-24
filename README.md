@@ -3,9 +3,9 @@ Olá! 👋 Eu sou o **Eduardo**
 Sou um **Futuro Desenvolvedor Web FullStack** atualmente estudando Análise e Desenvolvimento de Sistemas na UNOESTE e também participando do curso Driven Flex, onde estou aprimorando minhas habilidades em desenvolvimento web. Tenho uma base sólida em HTML, CSS, JavaScript, React.js e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.  
 
 **O que eu faço**  
-🌐 Desenvolvimento Web FullStack: Trabalho com tecnologias do front-end e back-end, criando interfaces responsivas e soluções completas.
-📚 Estudante em Evolução: Estou sempre estudando para expandir meu conhecimento em novas linguagens e frameworks, com foco no desenvolvimento contínuo.
-📊 Cursos e Certificações: Já concluí o curso CS50 de Harvard em Ciência da Computação e o EMPOWERDATA com foco em Power BI.
+🌐 Desenvolvimento Web FullStack: Trabalho com tecnologias do front-end e back-end, criando interfaces responsivas e soluções completas.  
+📚 Estudante em Evolução: Estou sempre estudando para expandir meu conhecimento em novas linguagens e frameworks, com foco no desenvolvimento contínuo.  
+📊 Cursos e Certificações: Já concluí o curso CS50 de Harvard em Ciência da Computação e o EMPOWERDATA com foco em Power BI.  
 
 ### Linguagens que eu conheço:
 
