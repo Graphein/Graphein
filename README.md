@@ -36,5 +36,5 @@ Aqui estão alguns dos meus principais projetos que você pode explorar durante 
 <br>
 
 **Linguagens Mais Usadas:**   
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical&locale=pt-BR)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical&locale=pt-BR)
 
