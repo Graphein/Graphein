@@ -19,7 +19,7 @@ Sou um **Futuro Desenvolvedor Web FullStack** atualmente estudando Análise e De
 <br>
 <br>
 
-**Projetos em Destaque**
+**Projetos em Destaque**  
 Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
 
 **DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.  
