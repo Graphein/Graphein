@@ -32,6 +32,7 @@ Aqui estão alguns dos meus principais projetos que você pode explorar durante 
     <img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%; border: 1px solid #0A66C2; background-color: #0A66C2; border-radius: 50%;">
   </a>
 </p>
-
+<br>
+<br>
 ### ⚡ Most Used Languages  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical)
