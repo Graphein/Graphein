@@ -28,8 +28,8 @@ Aqui estão alguns dos meus principais projetos que você pode explorar durante 
 
 ### Conecte-se comigo:
 <p>
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">
   <a href="https://www.linkedin.com/in/eduardoleli/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%; border: 1px solid #0A66C2; background-color: #0A66C2; border-radius: 50%;">
+    <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="max-width: 100%; filter: brightness(0) invert(1);">
   </a>
 </p>
+
