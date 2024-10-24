@@ -27,5 +27,8 @@ Aqui estão alguns dos meus principais projetos que você pode explorar durante 
 **Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.  
 
 **Vamos nos Conectar!**  
-💼 LinkedIn: https://www.linkedin.com/in/eduardoleli/  
-🌐 GitHub: https://github.com/Graphein  
+### GitHub
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Graphein)
+
+### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eduardoleli/)
