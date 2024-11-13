@@ -21,6 +21,7 @@ Sou um **Desenvolvedor Web FullStack** atualmente estudando Análise e Desenvolv
 **Projetos em Destaque**  
 Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
 
+**Parrot Card Game** – Jogo de memória interativo onde apliquei lógica de pares, validação de entrada e manipulação de estados com JavaScript.
 **DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.  
 **Recriação da Home Globo.com** - Um projeto onde recriei do zero uma das páginas mais acessadas da internet brasileira.  
 **Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.  
