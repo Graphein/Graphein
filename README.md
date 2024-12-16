@@ -1,11 +1,5 @@
 Olá! 👋 Eu sou o **Eduardo Leli!**  
 
-**Sobre mim**  
-Sou um **Desenvolvedor Web | Front-End & Back-End** atualmente estudando Análise e Desenvolvimento de Sistemas na UNOESTE e também participando do curso Driven Flex, onde estou aprimorando minhas habilidades em desenvolvimento web. Tenho uma base sólida em HTML, CSS, JavaScript, React.js e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.  
-
-**O que eu faço**  
-🌐 Desenvolvimento Web Completo: Com habilidades no front-end e back-end, incluindo HTML, CSS, JavaScript, React e as principais tecnologias, crio soluções integradas e interfaces responsivas focadas na experiência do usuário. Meu objetivo é construir aplicações escaláveis e dinâmicas, utilizando as melhores práticas para entregar resultados de alto impacto.  
-
 ### Linguagens que eu conheço:
 
 <p align="left">
