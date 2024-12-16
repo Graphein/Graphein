@@ -1,5 +1,11 @@
 Olá! 👋 Eu sou o **Eduardo Leli!**  
 
+**Sobre mim**  
+Sou um **Desenvolvedor Web FullStack** atualmente estudando Análise e Desenvolvimento de Sistemas na UNOESTE e também participando do curso Driven Flex, onde estou aprimorando minhas habilidades em desenvolvimento web. Tenho uma base sólida em HTML, CSS, JavaScript, React.js e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.  
+
+**O que eu faço**  
+🌐 Desenvolvimento Web Completo: Com habilidades no front-end e back-end, incluindo HTML, CSS, JavaScript, React e as principais tecnologias, crio soluções integradas e interfaces responsivas focadas na experiência do usuário. Meu objetivo é construir aplicações escaláveis e dinâmicas, utilizando as melhores práticas para entregar resultados de alto impacto.  
+
 ### Linguagens que eu conheço:
 
 <p align="left">
@@ -11,6 +17,15 @@ Olá! 👋 Eu sou o **Eduardo Leli!**
 </p><br>
 <br>
 <br>
+
+**Projetos em Destaque**  
+Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
+
+**Parrot Card Game** – Jogo de memória interativo onde apliquei lógica de pares, validação de entrada e manipulação de estados com JavaScript.  
+**DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.  
+**Recriação da Home Globo.com** - Um projeto onde recriei do zero uma das páginas mais acessadas da internet brasileira.  
+**Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.  
+
 ### Conecte-se comigo:
 <p>
   <a href="https://www.linkedin.com/in/eduardoleli/">
