@@ -76,7 +76,7 @@ Especialização em desenvolvimento web fullstack por meio do curso Driven Flex,
 
 ### 🎓 UNOESTE - Análise e Desenvolvimento de Sistemas  
 - 5º termo em andamento  
-- Projeto realizado: Desenvolvimento de um sistema para a ONG Futuro Verde, organização não governamental focada em causas ambientais.  
+- Projeto realizado: Desenvolvimento de um sistema para a ONG Planeta Verde, organização não governamental focada em causas ambientais.  
   - Sistema criado para auxiliar na gestão e organização das ações da ONG, com foco em usabilidade e eficiência.
 
 ---
