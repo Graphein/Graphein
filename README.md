@@ -48,7 +48,8 @@ O sistema foi construído com **React** e **TypeScript**, utilizando autenticaç
 
 Projeto real, desenvolvido sob demanda para a empresa com foco em escalabilidade, segurança e usabilidade.
 
-> Acesse os repositórios para ver mais 👇
+> Acesse os repositórios para ver mais 👇  
+> [Repositórios](https://github.com/Graphein/Curso-DrivenFlex)
 
 ---
 
