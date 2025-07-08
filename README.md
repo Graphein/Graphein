@@ -1,39 +1,84 @@
-Olá! 👋 Eu sou o **Eduardo Leli!**  
+<h1 align="center">Olá! 👋 Eu sou o Eduardo Leli</h1>
+<p align="center">
+  Desenvolvedor Front-End | Estudante de ADS na UNOESTE | Aluno Driven Education 🚀
+</p>
 
-**Sobre mim**  
-Sou um **Desenvolvedor Front-End** atualmente estudando Análise e Desenvolvimento de Sistemas na UNOESTE e também participando do curso Driven Flex, onde estou aprimorando minhas habilidades em desenvolvimento web. Tenho uma base sólida em HTML, CSS, JavaScript, React.js e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área.  
+---
 
-**O que eu faço**  
-🌐 Desenvolvimento Web Completo: Com habilidades no front-end e back-end, incluindo HTML, CSS, JavaScript, React e as principais tecnologias, crio soluções integradas e interfaces responsivas focadas na experiência do usuário. Meu objetivo é construir aplicações escaláveis e dinâmicas, utilizando as melhores práticas para entregar resultados de alto impacto.  
+## 👨‍💻 Sobre mim
 
-### Linguagens que eu conheço:
+Sou um **Desenvolvedor Front-End** apaixonado por tecnologia, com sólida base em **HTML, CSS, JavaScript, React.js e Node.js**. Atualmente curso **Análise e Desenvolvimento de Sistemas (UNOESTE)** e estou em formação na **Driven Education (Flex Full Stack)** — um curso intensivo e prático com foco no desenvolvimento web completo.
+
+Tenho interesse especial em criar interfaces modernas, performáticas e intuitivas. Estou sempre em busca de novos desafios, aprendizados e boas práticas para entregar soluções eficientes.
+
+---
+
+## 🧰 Tech Stack
+
+### Linguagens & Ferramentas que uso:
 
 <p align="left">
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 100%;">
-  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
-  <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
-  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-</p><br>
-<br>
-<br>
+  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</p>
 
-**Projetos em Destaque**  
-Aqui estão alguns dos meus principais projetos que você pode explorar durante o curso da Driven Flex:
+---
 
-**Parrot Card Game** – Jogo de memória interativo onde apliquei lógica de pares, validação de entrada e manipulação de estados com JavaScript.  
-**DrivenEats** - Um app de pedidos de comida que desenvolvi, aplicando lógica de interação e responsividade.  
-**Recriação da Home Globo.com** - Um projeto onde recriei do zero uma das páginas mais acessadas da internet brasileira.  
-**Recriação do Instagram** - Projeto focado em aprimorar as habilidades de CSS e design responsivo.  
+## 🧪 Projetos em Destaque
 
-### Conecte-se comigo:
+📌 **Parrot Card Game**  
+Jogo da memória feito em JavaScript com lógica de pares, validação de entrada e manipulação de estados.
+
+📌 **DrivenEats**  
+Aplicativo de pedidos de comida online, utilizando JS e DOM para interações dinâmicas e layout responsivo.
+
+📌 **Home Globo.com**  
+Recriação visual da página inicial do Globo.com, explorando semântica, grid e layout com HTML e CSS.
+
+📌 **Instagram Clone (HTML/CSS + React)**  
+Projeto focado em design responsivo, componentização e estado com React.js.
+
+> Acesse os repositórios para ver mais 👇
+
+---
+
+## 📚 Formação Técnica
+
+🎓 **Driven Education**  
+- Formação Full Stack (em andamento)  
+- HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL  
+- Testes, TypeScript, Clean Code, Metodologias Ágeis (em progresso)
+
+🎓 **UNOESTE - Análise e Desenvolvimento de Sistemas**  
+- Graduação em andamento
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical&locale=pt-BR)
+
+---
+
+## 🤝 Conecte-se comigo
+
 <p>
   <a href="https://www.linkedin.com/in/eduardoleli/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%; border: 1px solid #0A66C2; background-color: #0A66C2; border-radius: 50%;">
+    <img alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/70a7364e4cab5012925da3ac158a64a992e400152b366dbb71b90fef4b4a1264/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style="border-radius: 50%; background-color: #0A66C2; border: 1px solid #0A66C2;">
+  </a>
+  &nbsp;
+  <a href="mailto:eduardoleli.dev@gmail.com">
+    📧 Email
   </a>
 </p>
-<br>
-<br>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical&locale=pt-BR)
+---
 
+✨ Obrigado por visitar meu perfil!
