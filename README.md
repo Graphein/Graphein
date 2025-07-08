@@ -31,19 +31,28 @@ Tenho interesse especial em criar interfaces modernas, performáticas e intuitiv
 
 ---
 
-## 🧪 Projetos em Destaque
+🧩 Projeto Profissional
+📌 Sistema de Gestão – Garra Geradores
+📅 Outubro de 2024 – Atualmente
 
-📌 **Parrot Card Game**  
-Jogo da memória feito em JavaScript com lógica de pares, validação de entrada e manipulação de estados.
+Desenvolvi um sistema web completo para a empresa Garra Geradores, com foco em gestão financeira e operacional.
+O sistema foi construído com React e TypeScript, utilizando autenticação (login/logout) e geração de relatórios em PDF.
 
-📌 **DrivenEats**  
-Aplicativo de pedidos de comida online, utilizando JS e DOM para interações dinâmicas e layout responsivo.
+Funcionalidades principais:
 
-📌 **Home Globo.com**  
-Recriação visual da página inicial do Globo.com, explorando semântica, grid e layout com HTML e CSS.
+📊 Dashboard – Visão geral com métricas essenciais.
 
-📌 **Instagram Clone (HTML/CSS + React)**  
-Projeto focado em design responsivo, componentização e estado com React.js.
+🚚 Gestão de Caminhões – Monitoramento e controle da frota.
+
+💸 Controle de Despesas – Registro e acompanhamento de custos operacionais.
+
+📈 Relatórios Financeiros – Exportação de relatórios mensais em PDF.
+
+💰 Finanças Consolidadas – Controle de receitas e despesas.
+
+🔐 Autenticação – Login seguro com controle de acesso.
+
+Projeto real, desenvolvido sob demanda para a empresa com foco em escalabilidade, segurança e usabilidade.
 
 > Acesse os repositórios para ver mais 👇
 
