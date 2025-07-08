@@ -56,13 +56,28 @@ Projeto real, desenvolvido sob demanda para a empresa com foco em escalabilidade
 
 ## 📚 Formação Técnica
 
-🎓 **Driven Education**  
-- Formação Full Stack (em andamento)  
-- HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL  
-- Testes, TypeScript, Clean Code, Metodologias Ágeis (em progresso)  
+### 🎓 Driven Education — Formação Intensiva Full Stack  
+**Setembro de 2024 – Março de 2025**
 
-🎓 **UNOESTE - Análise e Desenvolvimento de Sistemas**  
-- Graduação em andamento
+Especialização em desenvolvimento web fullstack por meio do curso Driven Flex, com foco prático e alinhado ao mercado.
+
+- Formação intensiva baseada em projetos reais e práticas de mercado  
+- Mais de 20 projetos práticos desenvolvidos do zero, abrangendo front-end e back-end  
+
+**Ementa do curso:**
+
+- **Linguagens de Programação:** JavaScript, TypeScript, HTML, CSS  
+- **Bibliotecas e Frameworks:** React, Node.js, Express, Nest.js, Styled-components, Prisma ORM  
+- **Banco de Dados:** MongoDB, PostgreSQL, SQL, Redis  
+- **Testes:** Testes unitários e de integração com Jest, Cypress e Supertest  
+- **Infraestrutura e DevOps:** API RESTful  
+- **Metodologias e Práticas:** Metodologias ágeis (SCRUM), lógica de programação, estrutura de dados, orientação a objetos, arquitetura de software, boas práticas de desenvolvimento e clean code
+
+
+### 🎓 UNOESTE - Análise e Desenvolvimento de Sistemas  
+- 5º termo em andamento  
+- Projeto realizado: Desenvolvimento de um sistema para a ONG Futuro Verde, organização não governamental focada em causas ambientais.  
+  - Sistema criado para auxiliar na gestão e organização das ações da ONG, com foco em usabilidade e eficiência.
 
 ---
 
