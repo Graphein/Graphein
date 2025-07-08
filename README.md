@@ -1,8 +1,3 @@
-<h1 align="center">Olá! 👋 Eu sou o Eduardo Leli</h1>
-<p align="center">
-  Desenvolvedor Front-End | Estudante de ADS na UNOESTE | Aluno Driven Education 🚀
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
