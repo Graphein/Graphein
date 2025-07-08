@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Front-End** com sólida base em **HTML, CSS, JavaScript, React.js e Node.js**. Atualmente curso **Análise e Desenvolvimento de Sistemas (UNOESTE)** e estou em formação na **Driven Education (Flex Full Stack)** — um curso intensivo e prático com foco no desenvolvimento web completo.
+Sou um **Desenvolvedor Front-End** com sólida base em **HTML, CSS, JavaScript, React.js e Node.js**. Atualmente curso **Análise e Desenvolvimento de Sistemas (UNOESTE)** e estou em formação na **Driven Education (Full Stack)** — um curso intensivo e prático com foco no desenvolvimento web completo.
 
 ---
 
