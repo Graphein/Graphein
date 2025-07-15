@@ -41,6 +41,8 @@ O sistema foi construído com **React** e **TypeScript**, utilizando autenticaç
 - 💰 Finanças Consolidadas – Controle de receitas e despesas  
 - 🔐 Autenticação – Login seguro com controle de acesso  
 
+### 📸 Capturas da Interface
+
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEiQ7Dbvm2OkQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929367793?e=1753160400&v=beta&t=rn65H4qNpLoE8mkK6vnJ6lWXkWzl8X9KP7dVNXWKKQs" width="140" />
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEfGEC85tYXNQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929353224?e=1753160400&v=beta&t=rsT5MUACPuR7A-Dia3xnpLnqoQnhll5NgpEpWMLVR-8" width="140" />
