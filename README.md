@@ -45,6 +45,7 @@ O sistema foi construído com **React** e **TypeScript**, utilizando autenticaç
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEiQ7Dbvm2OkQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929367793?e=1753160400&v=beta&t=rn65H4qNpLoE8mkK6vnJ6lWXkWzl8X9KP7dVNXWKKQs" width="140" />
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEfGEC85tYXNQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929353224?e=1753160400&v=beta&t=rsT5MUACPuR7A-Dia3xnpLnqoQnhll5NgpEpWMLVR-8" width="140" />
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQFr4Y7MGn2whQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929374255?e=1753160400&v=beta&t=tFU_bd_fMEL9WhRQgekSSxYaoo4a8d7qBM2EYnR8ouk" width="140" />
+  <br>
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQEaF9aJRlRu0w/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929386455?e=1753160400&v=beta&t=847WvIYOhDTHz_NYRn06-gR5Hn2cWK9rmzPcTbHoZng" width="140" />
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQHdrEkjQlcIWw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1735929380838?e=1753160400&v=beta&t=emCJFVoosCsaxrp-s2EiRyFJUTR15q4ZPMPc-RQGcJI" width="140" />
   <img src="https://media.licdn.com/dms/image/v2/D4D2DAQF-C1zlBhlHOA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1735929339604?e=1753160400&v=beta&t=DB9snEn9zvXanNLUNSxp4aPmlEYCiXiNWMJ2xILLLFY" width="140" />
