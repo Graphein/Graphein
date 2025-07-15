@@ -41,7 +41,9 @@ O sistema foi construído com **React** e **TypeScript**, utilizando autenticaç
 - 💰 Finanças Consolidadas – Controle de receitas e despesas  
 - 🔐 Autenticação – Login seguro com controle de acesso  
 
-![Login](https://github.com/user-attachments/assets/df4e7add-42ac-491a-b192-0d85afb04b1c)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D2DAQF-C1zlBhlHOA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1735929339604?e=1753160400&v=beta&t=DB9snEn9zvXanNLUNSxp4aPmlEYCiXiNWMJ2xILLLFY" width="200" alt="Eduardo Leli" />
+</p>
 
 Projeto real, desenvolvido sob demanda para a empresa com foco em escalabilidade, segurança e usabilidade.
 
