@@ -41,6 +41,8 @@ O sistema foi construído com **React** e **TypeScript**, utilizando autenticaç
 - 💰 Finanças Consolidadas – Controle de receitas e despesas  
 - 🔐 Autenticação – Login seguro com controle de acesso  
 
+![Login](https://github.com/user-attachments/assets/df4e7add-42ac-491a-b192-0d85afb04b1c)
+
 Projeto real, desenvolvido sob demanda para a empresa com foco em escalabilidade, segurança e usabilidade.
 
 > [Acesse os repositórios para ver mais](https://github.com/Graphein/Curso-DrivenFlex) 👈
