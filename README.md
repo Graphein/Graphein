@@ -4,9 +4,9 @@
 
 Desenvolvedor Full Stack Júnior apaixonado por tecnologia e desenvolvimento web. Trabalho principalmente com React, Next.js, Node.js e TypeScript, criando aplicações modernas, escaláveis e focadas na melhor experiência do usuário.
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (UNOESTE)
-🚀 Formação Full Stack pela Driven Education (+1.200h)
-📚 Pós-Graduação em Desenvolvimento Full Stack pela PUC-Rio (em andamento)
+🎓 Formado em Análise e Desenvolvimento de Sistemas (UNOESTE)<br>
+🚀 Formação Full Stack pela Driven Education (+1.200h)<br>
+📚 Pós-Graduação em Desenvolvimento Full Stack pela PUC-Rio (em andamento)<br>
 
 Sempre buscando aprender novas tecnologias e evoluir como engenheiro de software.
 
