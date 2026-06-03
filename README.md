@@ -2,7 +2,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Front-End** com sólida base em **HTML, CSS, JavaScript, React.js e Node.js**. Atualmente curso **Análise e Desenvolvimento de Sistemas (UNOESTE)** e estou em formação na **Driven Education (Full Stack)** — um curso intensivo e prático com foco no desenvolvimento web completo.
+Desenvolvedor Full Stack Júnior apaixonado por tecnologia e desenvolvimento web. Trabalho principalmente com React, Next.js, Node.js e TypeScript, criando aplicações modernas, escaláveis e focadas na melhor experiência do usuário.
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas (UNOESTE)
+🚀 Formação Full Stack pela Driven Education (+1.200h)
+📚 Pós-Graduação em Desenvolvimento Full Stack pela PUC-Rio (em andamento)
+
+Sempre buscando aprender novas tecnologias e evoluir como engenheiro de software.
 
 ---
 
@@ -71,12 +77,6 @@ Especialização em desenvolvimento web fullstack por meio do curso Driven Flex,
 - 5º termo em andamento  
 - Projeto realizado: Desenvolvimento de um sistema para a ONG Planeta Verde, organização não governamental focada em causas ambientais.  
   - Sistema criado para auxiliar na gestão e organização das ações da ONG, com foco em usabilidade e eficiência.
-
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Graphein&layout=compact&theme=radical&locale=pt-BR)
 
 ---
 
